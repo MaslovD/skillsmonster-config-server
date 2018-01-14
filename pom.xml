@@ -5,7 +5,7 @@
 
 	<groupId>io.dmitr.skillsmonster</groupId>
 	<artifactId>config-server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<packaging>jar</packaging>
 
 	<name>config-server</name>
